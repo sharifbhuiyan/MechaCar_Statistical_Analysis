@@ -1,25 +1,24 @@
-# MechaCar_Statistical_Analysis
-
-## **<h1 align="justify"> Bikesharing**
+## **<h1 align="justify"> MechaCar_Statistical_Analysis**
   	
 ---
 ## Overview of the project: 
-<p align="justify">The main objective of the project to analysis of NYC Bike sharing data and visualization summary for the bike-sharing business in Des Moines. <p>
+<p align="justify">The objective of the project to analysis data with statistics and hypothesis testing of datasets of a automotive industry. And all the testing and analysis and visualization is written with the R programming language. <p>
 	
 ---
 
 <p align="justify">This project consists of three technical analysis deliverables. <p>
 
-- Deliverable 1: Change Trip Duration to a Datetime Format
-- Deliverable 2: Create Visualizations for the Trip Analysis
-- Deliverable 3: Create a Story and Report for the Final Presentation
+- Deliverable 1: Linear Regression to Predict MPG
+- Deliverable 2: Summary Statistics on Suspension Coils
+- Deliverable 3: T-Test on Suspension Coils
+- Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 	
 
 ### Resources
-- Data Source: [ Citi Bike Data](https://ride.citibikenyc.com/system-data), [ 201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)  	
-- Software: Jupyter Notebook, Tableau Public 2022.1
+- Data Source: [ MechaCar_mpg.csv](https://github.com/sharifbhuiyan/MechaCar_Statistical_Analysis/tree/main/Resources), [ Suspension_Coil.csv](https://github.com/sharifbhuiyan/MechaCar_Statistical_Analysis/tree/main/Resources)  	
+- Software: RStudio-2022.02.3-492
 
-## Results:
+## Linear Regression to Predict MPG:
 The deployed project file is accessible at
 	-  Tableau Analysis [ link to dashboard](https://public.tableau.com/app/profile/sharif.a.bhuiyan/viz/NYC_bikesharing_16562915535850/Story1?publish=yes),	 github file [ NYC_Citibike_Challenge.ipynb](https://github.com/sharifbhuiyan/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)
  
