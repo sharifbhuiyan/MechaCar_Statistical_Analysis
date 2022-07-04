@@ -6,7 +6,7 @@
 	
 ---
 
-<p align="justify">This project consists of three technical analysis deliverables. <p>
+<p align="justify">This project consists of four technical analysis deliverables. <p>
 
 - Deliverable 1: Linear Regression to Predict MPG
 - Deliverable 2: Summary Statistics on Suspension Coils
@@ -19,18 +19,9 @@
 - Software: RStudio-2022.02.3-492
 
 ## Linear Regression to Predict MPG:
-The deployed project file is accessible at
-	-  Tableau Analysis [ link to dashboard](https://public.tableau.com/app/profile/sharif.a.bhuiyan/viz/NYC_bikesharing_16562915535850/Story1?publish=yes),	 github file [ NYC_Citibike_Challenge.ipynb](https://github.com/sharifbhuiyan/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb)
- 
 	
-
-
-
-### **<h1 align="justify"> New York Citi Bike data visualizations for August 2019**
-	
-
 <p align="center">
-  <img width="800" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/story.png
+  <img width="800" src=https://github.com/sharifbhuiyan/MechaCar_Statistical_Analysis/blob/main/Resources/D1.png
 </p>  
 	
 - Approx 2.34 million rides for the month of August, 2019.
@@ -41,7 +32,7 @@ The deployed project file is accessible at
 ### August Peak Hours
 	
 <p align="center">
-  <img width="800" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/peak_month.png
+  <img width="800" src=https://github.com/sharifbhuiyan/MechaCar_Statistical_Analysis/blob/main/Resources/D2.png
 </p>  
 	
 - Highest activity hours are from 5:00 PM to 7:00 PM.
@@ -50,7 +41,7 @@ The deployed project file is accessible at
 ### Checkout times for users
 	
 <p align="center">
-  <img width="800" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/checkout_users.png
+  <img width="800" src=https://github.com/sharifbhuiyan/MechaCar_Statistical_Analysis/blob/main/Resources/d3.png
 </p>  
 
 - Most checkout time is from 4 to 6 hours.
@@ -58,7 +49,7 @@ The deployed project file is accessible at
 ### Checkout times by gender
 	
 <p align="center">
-  <img width="800" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/checkout_gender.png
+  <img width="800" src=https://github.com/sharifbhuiyan/MechaCar_Statistical_Analysis/blob/main/Resources/t1.png
 </p>
 	
 - Here showing that Male users take long time than the female users.
@@ -66,11 +57,17 @@ The deployed project file is accessible at
 ### Trips by weekday and gender
 	
 <p align="center">
-  <img width="600" src=https://github.com/sharifbhuiyan/bikesharing/blob/main/images/hourly_trip.png
+  <img width="600" src=https://github.com/sharifbhuiyan/MechaCar_Statistical_Analysis/blob/main/Resources/t2.png 
 </p>
 	
 - Most weekday rides are around 7 to 9 and 5 to 7.
 - And also weekend rides are pick from 10 to 7.
+### Trips by weekday and gender
+	
+<p align="center">
+  <img width="600" src=https://github.com/sharifbhuiyan/MechaCar_Statistical_Analysis/blob/main/Resources/t3.png
+</p>
+
 	
 ## Summary:
 <p align="justify"> From this project analysis of activity of the bike sharing in NYC during the month of August 2019 is pick. and most of the rides remain active in Manhattan Island. So, the conclusion of the project is that as a alternative of transportation for cummuting workers Bike service is mostly preferable one. <p> 
