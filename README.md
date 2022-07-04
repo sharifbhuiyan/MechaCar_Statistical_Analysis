@@ -66,5 +66,5 @@
 </p>
 
 	
-## Study Design: MechaCar vs Competition:
+
 
